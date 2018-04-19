@@ -1,0 +1,27 @@
+.invisible-at-first {
+	display: none;
+}
+.ctext, .fhdtext {
+    color: white;
+    text-shadow: 3px 3px 6px #3498DB;
+}
+.gtext {
+    color: #3498DB;
+    text-shadow: 2px 2px 5px black;
+    font-size: 140%;
+}
+.ltext {
+    color: #FFC300;
+    text-shadow: 0.5px 0.5px 0px #000000;
+    font-weight: bold;
+}
+.fl1text, .fl2text, .fl3text, .fl4text, .fl5text{
+	color: #3498DB;
+    text-shadow: 2px 2px 5px black;
+    font-size: 140%;
+}
+.rd1, .rd2, .rd3, .rd4{
+	color: #FFC300;
+    text-shadow: 0.5px 0.5px 0px #000000;
+    font-weight: bold;
+}
